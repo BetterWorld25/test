@@ -1,0 +1,6 @@
+outs:
+- md5: 85a1ff42f30dff9f22a56b079cfa2e7e
+  size: 305626332
+  isexec: true
+  hash: md5
+  path: opa_properties_public.csv
