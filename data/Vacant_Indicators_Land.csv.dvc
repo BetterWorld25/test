@@ -1,0 +1,6 @@
+outs:
+- md5: a79de03e5e6dd5745b270719c4f42b5f
+  size: 4432427
+  isexec: true
+  hash: md5
+  path: Vacant_Indicators_Land.csv

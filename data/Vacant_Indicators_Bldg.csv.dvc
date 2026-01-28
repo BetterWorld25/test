@@ -1,0 +1,6 @@
+outs:
+- md5: a3de9910e9b02600c38c94b29ea42970
+  size: 1206956
+  isexec: true
+  hash: md5
+  path: Vacant_Indicators_Bldg.csv
