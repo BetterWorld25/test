@@ -1,0 +1,6 @@
+outs:
+- md5: 348e1d25f617365d98a6c596ba304a3c
+  size: 6285900
+  isexec: true
+  hash: md5
+  path: Vacant_Indicators_Points.csv

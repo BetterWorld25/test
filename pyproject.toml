@@ -9,4 +9,5 @@ dependencies = [
     "dvc-gs>=3.0.2",
     "numpy>=2.4.2",
     "pandas>=3.0.0",
+    "xopen>=2.0.2",
 ]
